@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590506420032.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9CA7755C",
+    "lastKnownWriteTime" : 8389754676516450921,
+    "last_content_update" : 1590506420032,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "74F76C46",
+        "caption" : "bikebuyers_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bikebuyers_data&cache_key=74F76C46",
+        "displayedObservations" : 1000,
+        "environment" : "",
+        "expression" : "bikebuyers_data",
+        "object" : "bikebuyers_data",
+        "preview" : 0,
+        "totalObservations" : 1000,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
